@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+out/
+*.csv.gz
+train.csv
+daily_costs.json
